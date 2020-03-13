@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mes contacts</string>
+    <string name="name">Nom</string>
+    <string name="firstName">Prénom</string>
+    <string name="number">Numéro de Téléphone</string>
+    <string name="send">Valider</string>
+    <string name="returnToMain">Enregistrer un nouveau numéro</string>
+</resources>
